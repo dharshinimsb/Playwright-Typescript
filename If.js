@@ -11,3 +11,5 @@ else (num < 0)
 {
     console.log("Its a Negative number")
 }
+
+//if else
